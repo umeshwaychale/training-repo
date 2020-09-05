@@ -1,2 +1,3 @@
-# training-repo
-This repo is specifically created for training the new commers
+# Simple Training Repo
+
+This is just the dummy text to check.
